@@ -1,5 +1,4 @@
 # TFM
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/sebastiansossah/TFM)
 
 ## Overview
 
