@@ -34,7 +34,7 @@ The notebooks in the `modelos_clasicos/` directory contain experiments and hyper
 
 ### Deep Learning Models
 
-The `modelos_deep_learning/pipeline-colab.ipynb` notebook implements a complete pipeline to train and evaluate several autoencoder architectures designed for time-series data:
+The `modelos_deep_learning/modelos_deep_learning.ipynb` notebook implements a complete pipeline to train and evaluate several autoencoder architectures designed for time-series data:
 
 *   **Dense Autoencoder**: A standard autoencoder with fully connected layers that flattens the time-series window.
 *   **LSTM Autoencoder**: Utilizes Long Short-Term Memory (LSTM) layers to model temporal sequences and dependencies within each data window.
